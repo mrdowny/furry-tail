@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			  android:layout_width="match_parent"
+			  android:layout_height="match_parent"
+			  android:orientation="vertical">
+
+	<TextView
+		android:id="@+id/label_for_textview"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="@string/offer"
+		android:textSize="45sp"/>
+
+	<!-- Комментарий -->
+
+	<Spinner
+		android:id="@+id/spinner_for_colors"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:entries="@array/color_selection"/>
+
+	<Button
+		android:id="@+id/button"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+
+		android:text="@string/result"/>
+
+	<TextView
+		android:id="@+id/textView2"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="@string/effect"/>
+
+</LinearLayout>

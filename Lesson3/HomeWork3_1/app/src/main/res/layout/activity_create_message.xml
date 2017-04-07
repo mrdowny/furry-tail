@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="ru.evg.communication.CreateMessageActivity">
+
+
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ask_question" />
+
+    <EditText
+        android:id="@+id/acr_editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/msg" />
+
+    <Button
+        android:id="@+id/acr_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onSendMessage"
+        android:text="@string/send" />
+
+    <TextView
+        android:id="@+id/acr_textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Example_intent"/>
+
+    <Button
+        android:id="@+id/acr_button_send_mail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onSendMessage_mail"
+        android:text="@string/send_mail" />
+
+
+</LinearLayout>

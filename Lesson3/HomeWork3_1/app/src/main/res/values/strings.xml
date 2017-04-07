@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Communication</string>
+    <string name="send">Отправить</string>
+    <string name="msg">Сообщение</string>
+    <string name="question">Вопрос</string>
+    <string name="ask_question">Задайте вопрос</string>
+    <string name="answer">Напишите ответ</string>
+    <string name="send_mail">Отправить вопрос на email</string>
+    <string name="Example_intent">Пример неявного intenta</string>
+</resources>
+

@@ -11,8 +11,10 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
-    private int i_A;
-    private int i_B;
+    public static final String I_A = "i_A";
+    public static final String I_B = "i_B";
+    private int i_A = 0;
+    private int i_B = 0;
     private int i_result;
 
     private EditText et_A = null;
@@ -55,6 +57,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        if (savedInstanceState != null)
+        {
+            //i_A = savedInstanceState.getInt(I_A);
+           // i_B = savedInstanceState.getInt(I_B);
+
+
+        }
+
         et_A = (EditText) findViewById(R.id.et_A);
         et_B = (EditText) findViewById(R.id.et_B);
 
@@ -91,5 +101,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
         }
 
+    }
+
+    @Override
+    protected void onSaveInstanceState(Bundle outState) {
+        outState.putInt(I_A, i_A);
+        outState.putInt(I_B, i_B);
+
+
+        super.onSaveInstanceState(outState);
     }
 }

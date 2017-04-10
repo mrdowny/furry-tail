@@ -1,50 +1,162 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context="ru.evg.my_calc.MainActivity">
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:id="@+id/ll_one"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="100">
+
+        <TextView
+            android:id="@+id/tv_A"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="30"
+            android:gravity="center"
+            android:text="@string/One" />
+
+        <TextView
+            android:id="@+id/tv_Oper_0"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="40"
+            android:gravity="center"
+            android:text="@string/Eq" />
+
+
+        <TextView
+            android:id="@+id/tv_B"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="30"
+            android:gravity="center"
+            android:text="@string/Two" />
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/ll_two"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ll_one"
+        android:orientation="horizontal"
+        android:weightSum="100">
+
+        <EditText
+            android:id="@+id/et_A"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="30"
+            android:background="#aaaa00"
+            android:inputType="number" />
+
+        <TextView
+            android:id="@+id/tv_Oper"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="40"
+            android:background="#aaaa00" />
+
+
+        <EditText
+            android:id="@+id/et_B"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="30"
+            android:background="#aaaa00"
+            android:inputType="number" />
+
+
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/tv_Result_0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ll_two"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:text="@string/str_result"
+        android:textSize="15dp" />
+
+
+    <TextView
+        android:id="@+id/tv_Result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_Result_0"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:background="#aaaaa0"
+        android:textSize="15dp" />
+
 
     <Button
         android:id="@+id/bt_sum"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="+"
-        tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="177dp" />
+        android:layout_below="@+id/tv_Result"
+        android:layout_margin="5dp"
 
-    <Button
-        android:id="@+id/bt_division"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="/"
-        tools:layout_editor_absoluteX="258dp"
-        tools:layout_editor_absoluteY="322dp" />
+        android:text="+" />
 
     <Button
         android:id="@+id/bt_difference"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="-"
-        tools:layout_editor_absoluteX="129dp"
-        tools:layout_editor_absoluteY="289dp" />
+        android:layout_below="@+id/tv_Result"
+        android:layout_margin="5dp"
+        android:layout_toRightOf="@+id/bt_sum"
+        android:text="-" />
+
 
     <Button
         android:id="@+id/bt_multiplication"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="*"
-        tools:layout_editor_absoluteX="104dp"
-        tools:layout_editor_absoluteY="384dp" />
+        android:layout_below="@+id/tv_Result"
+        android:layout_margin="5dp"
+        android:layout_toRightOf="@+id/bt_difference"
+        android:text="*" />
+
+
+    <Button
+        android:id="@+id/bt_division"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_Result"
+        android:layout_margin="5dp"
+        android:layout_toRightOf="@+id/bt_multiplication"
+        android:text="/" />
 
     <Button
         android:id="@+id/bt_calculate"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="="
-        tools:layout_editor_absoluteX="148dp"
-        tools:layout_editor_absoluteY="464dp" />
+        android:layout_below="@+id/bt_sum"
+        android:layout_margin="10dp"
+        android:text="=" />
 
 
-</android.support.constraint.ConstraintLayout>
+</RelativeLayout>

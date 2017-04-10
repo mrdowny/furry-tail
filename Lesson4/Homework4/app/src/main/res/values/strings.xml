@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My_Calc</string>
+    <string name="One">Первое число</string>
+    <string name="Eq">Действие</string>
+    <string name="Two">Второе число</string>
+    <string name="str_result">Результат</string>
 </resources>

@@ -2,10 +2,8 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-
 
     <LinearLayout
         android:id="@+id/ll_one"
@@ -25,7 +23,6 @@
 
         <TextView
             android:id="@+id/tv_Oper_0"
-
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
@@ -33,10 +30,8 @@
             android:gravity="center"
             android:text="@string/Eq" />
 
-
         <TextView
             android:id="@+id/tv_B"
-
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
@@ -44,9 +39,7 @@
             android:gravity="center"
             android:text="@string/Two" />
 
-
     </LinearLayout>
-
 
     <LinearLayout
         android:id="@+id/ll_two"
@@ -63,6 +56,7 @@
             android:layout_margin="5dp"
             android:layout_weight="30"
             android:background="#aaaa00"
+            android:gravity="center"
             android:inputType="number" />
 
         <TextView
@@ -71,7 +65,9 @@
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
             android:layout_weight="40"
-            android:background="#aaaa00" />
+            android:background="#aaaaa0"
+            android:gravity="center"
+            android:textSize="25dp" />
 
 
         <EditText
@@ -81,11 +77,10 @@
             android:layout_margin="5dp"
             android:layout_weight="30"
             android:background="#aaaa00"
+            android:gravity="center"
             android:inputType="number" />
 
-
     </LinearLayout>
-
 
     <TextView
         android:id="@+id/tv_Result_0"
@@ -99,7 +94,6 @@
         android:text="@string/str_result"
         android:textSize="15dp" />
 
-
     <TextView
         android:id="@+id/tv_Result"
         android:layout_width="match_parent"
@@ -109,7 +103,8 @@
         android:layout_marginRight="5dp"
         android:layout_marginTop="5dp"
         android:background="#aaaaa0"
-        android:textSize="15dp" />
+        android:gravity="center"
+        android:textSize="25dp" />
 
 
     <Button
@@ -157,6 +152,5 @@
         android:layout_below="@+id/bt_sum"
         android:layout_margin="10dp"
         android:text="=" />
-
 
 </RelativeLayout>

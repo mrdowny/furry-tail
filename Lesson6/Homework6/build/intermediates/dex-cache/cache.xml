@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\java\Project\Lesson6\Homework6\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\java\Project\Lesson6\Homework6\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_25919d9d9c6350ea1f45d20e86867d10305514ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\java\Project\Lesson6\Homework6\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\java\Project\Lesson6\Homework6\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_e031619197c8d58bef762e0392b80ca1c9dd76af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\evg\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\java\Project\Lesson6\Homework6\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_7578374bdb273fe941588d4931260d26d9f81f7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\java\Project\Lesson6\Homework6\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\java\Project\Lesson6\Homework6\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_53e5eaf898a44b13d99d70e3bea076b38a8b8f0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\evg\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\java\Project\Lesson6\Homework6\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_79fd63af1ba4f39eaf3fe89b9b5e61c71eb12e76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\java\Project\Lesson6\Homework6\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\java\Project\Lesson6\Homework6\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_d0313f5896ff3b7b29192633bdb8236e06682a08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\java\Project\Lesson6\Homework6\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\java\Project\Lesson6\Homework6\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_be9bbbde4ff99ec5bcf7cfb68db75688763b2a10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\java\Project\Lesson6\Homework6\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\java\Project\Lesson6\Homework6\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_758bbb219926fcb05d6a447e76cb8c969fe19337.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\java\Project\Lesson6\Homework6\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\java\Project\Lesson6\Homework6\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_235342893460cd68ed51bd5841561472525c4d6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\java\Project\Lesson6\Homework6\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\java\Project\Lesson6\Homework6\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_f768db0e990808b8938cae0f43a122b26a98ccdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\java\Project\Lesson6\Homework6\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\java\Project\Lesson6\Homework6\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_ac83dfc128d9aaf1ab0deef1d28e39f91fd8f646.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\java\Project\Lesson6\Homework6\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\java\Project\Lesson6\Homework6\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_7ec8ccefc56dd9529364e04f7494081bf6bb13ba.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\GeekBrains\\Level1\\Lesson6\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "D:\\Documents\\GeekBrains\\Level1\\Lesson6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "D:\\Documents\\GeekBrains\\A1_Lesson06\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "D:\\Documents\\GeekBrains\\A1_Lesson06\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    }
+]

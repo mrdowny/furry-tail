@@ -87,6 +87,7 @@
 				android:textColor="@color/colorNameSalon"/>
 
 			<ImageView
+				android:id="@+id/im_map"
 				android:layout_width="70dp"
 				android:layout_height="100dp"
 				android:layout_column="0"
@@ -95,6 +96,7 @@
 				android:src="@drawable/address"/>
 
 			<TextView
+				android:id="@+id/tv_map"
 				android:layout_width="match_parent"
 				android:layout_height="match_parent"
 				android:layout_column="1"

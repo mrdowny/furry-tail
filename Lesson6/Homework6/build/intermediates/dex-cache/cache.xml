@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="D:\java\Project\Lesson6\Homework6\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="D:\java\Project\Lesson6\Homework6\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.0_30f327540c3c178f5a16aa75ee8a3f91d3e9dcb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="D:\java\Project\Lesson6\Homework6\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -36,15 +45,6 @@
         revision="25.0.2"
         sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
         <dex dex="D:\java\Project\Lesson6\Homework6\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_53e5eaf898a44b13d99d70e3bea076b38a8b8f0b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\evg\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
-        <dex dex="D:\java\Project\Lesson6\Homework6\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_79fd63af1ba4f39eaf3fe89b9b5e61c71eb12e76.jar" />
     </item>
     <item
         is-multidex="false"
@@ -84,15 +84,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\java\Project\Lesson6\Homework6\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="D:\java\Project\Lesson6\Homework6\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_f768db0e990808b8938cae0f43a122b26a98ccdd.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="D:\java\Project\Lesson6\Homework6\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -108,6 +99,51 @@
         revision="25.0.2"
         sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
         <dex dex="D:\java\Project\Lesson6\Homework6\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_7ec8ccefc56dd9529364e04f7494081bf6bb13ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\java\Project\Lesson6\Homework6\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="D:\java\Project\Lesson6\Homework6\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.2.0_16c79227b5e416cc5e0399db6ba30bb662091d19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\java\Project\Lesson6\Homework6\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="D:\java\Project\Lesson6\Homework6\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.0_9b7d32015edb17881c578f61c7c112b25fc8ec53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\evg\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\java\Project\Lesson6\Homework6\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_79fd63af1ba4f39eaf3fe89b9b5e61c71eb12e76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\java\Project\Lesson6\Homework6\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\java\Project\Lesson6\Homework6\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_f768db0e990808b8938cae0f43a122b26a98ccdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\java\Project\Lesson6\Homework6\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="D:\java\Project\Lesson6\Homework6\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.0_0c6acff66f9a7575bd1089326394dc80b97f83e9.jar" />
     </item>
 
 </items>

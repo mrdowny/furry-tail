@@ -32,6 +32,14 @@
         "source": "D:\\Documents\\GeekBrains\\Level1\\Lesson6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
+        "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\women_hair.png",
+        "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\src\\main\\res\\drawable\\women_hair.png"
+    },
+    {
         "merged": "D:\\Documents\\GeekBrains\\A1_Lesson06\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
         "source": "D:\\Documents\\GeekBrains\\A1_Lesson06\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
@@ -46,6 +54,10 @@
     {
         "merged": "D:\\Documents\\GeekBrains\\A1_Lesson06\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
         "source": "D:\\Documents\\GeekBrains\\A1_Lesson06\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
@@ -64,16 +76,16 @@
         "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "D:\\Documents\\GeekBrains\\Level1\\Lesson6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Documents\\GeekBrains\\Level1\\Lesson6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "D:\\Documents\\GeekBrains\\Level1\\Lesson6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
         "source": "D:\\Documents\\GeekBrains\\Level1\\Lesson6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "D:\\Documents\\GeekBrains\\Level1\\Lesson6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "D:\\Documents\\GeekBrains\\Level1\\Lesson6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_tile_bg.xml"
     },
     {
         "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
@@ -84,8 +96,16 @@
         "source": "D:\\Documents\\GeekBrains\\A1_Lesson06\\app\\src\\main\\res\\drawable\\nail.png"
     },
     {
+        "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
         "merged": "D:\\Documents\\GeekBrains\\Level1\\Lesson6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ap_ped.png",
         "source": "D:\\Documents\\GeekBrains\\Level1\\Lesson6\\app\\src\\main\\res\\drawable\\ap_ped.png"
+    },
+    {
+        "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\man_hair.png",
+        "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\src\\main\\res\\drawable\\man_hair.png"
     },
     {
         "merged": "D:\\Documents\\GeekBrains\\Level1\\Lesson6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
@@ -100,6 +120,10 @@
         "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
+        "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
         "merged": "D:\\Documents\\GeekBrains\\Level1\\Lesson6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
         "source": "D:\\Documents\\GeekBrains\\Level1\\Lesson6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
     },
@@ -110,6 +134,10 @@
     {
         "merged": "D:\\Documents\\GeekBrains\\A1_Lesson06\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
         "source": "D:\\Documents\\GeekBrains\\A1_Lesson06\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
         "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hair.png",
@@ -144,6 +172,10 @@
         "source": "D:\\Documents\\GeekBrains\\A1_Lesson06\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
+        "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\adres.png",
+        "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\src\\main\\res\\drawable\\adres.png"
+    },
+    {
         "merged": "D:\\Documents\\GeekBrains\\A1_Lesson06\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\address.png",
         "source": "D:\\Documents\\GeekBrains\\A1_Lesson06\\app\\src\\main\\res\\drawable\\address.png"
     },
@@ -166,6 +198,10 @@
     {
         "merged": "D:\\Documents\\GeekBrains\\A1_Lesson06\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
         "source": "D:\\Documents\\GeekBrains\\A1_Lesson06\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
         "merged": "D:\\Documents\\GeekBrains\\Level1\\Lesson6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
@@ -316,6 +352,10 @@
         "source": "D:\\Documents\\GeekBrains\\Level1\\Lesson6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
+        "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
         "merged": "D:\\Documents\\GeekBrains\\A1_Lesson06\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
         "source": "D:\\Documents\\GeekBrains\\A1_Lesson06\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_btn_colored_material.xml"
     },
@@ -364,6 +404,10 @@
         "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
+        "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
         "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\address.png",
         "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\src\\main\\res\\drawable\\address.png"
     },
@@ -396,12 +440,32 @@
         "source": "D:\\Documents\\GeekBrains\\Level1\\Lesson6\\app\\src\\main\\res\\drawable\\nail.png"
     },
     {
+        "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
         "merged": "D:\\Documents\\GeekBrains\\Level1\\Lesson6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
         "source": "D:\\Documents\\GeekBrains\\Level1\\Lesson6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_bg_low.xml"
     },
     {
+        "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
         "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
         "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\color_hair.png",
+        "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\src\\main\\res\\drawable\\color_hair.png"
+    },
+    {
+        "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
     },
     {
         "merged": "D:\\Documents\\GeekBrains\\A1_Lesson06\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
@@ -410,6 +474,10 @@
     {
         "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
         "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
     },
     {
         "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
@@ -530,6 +598,10 @@
     {
         "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nail.png",
         "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\src\\main\\res\\drawable\\nail.png"
+    },
+    {
+        "merged": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "D:\\java\\Project\\Lesson6\\Homework6\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
     },
     {
         "merged": "D:\\Documents\\GeekBrains\\Level1\\Lesson6\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_logo.png",

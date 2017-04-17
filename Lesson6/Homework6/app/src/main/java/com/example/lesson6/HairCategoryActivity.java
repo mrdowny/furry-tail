@@ -7,6 +7,7 @@ import android.support.annotation.Nullable;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.Spinner;
 
 public class HairCategoryActivity extends ListActivity {
 
@@ -14,9 +15,8 @@ public class HairCategoryActivity extends ListActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
         ListView listHairs = getListView();
-        ArrayAdapter<Hair> listAdapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, Hair.hairs);
+        ArrayAdapter<Hair> listAdapter = new ArrayAdapter<>(this,  android.R.layout.simple_list_item_checked, Hair.hairs);
         listHairs.setAdapter(listAdapter);
     }
 
